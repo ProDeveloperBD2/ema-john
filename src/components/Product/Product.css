@@ -43,6 +43,10 @@
     line-height: 10px;
     margin-left: 12px;
 }
-.seller-rate p span{
+.span1-2{
     font-weight: 500;
+}
+.icons{
+    font-size: 14px;
+    color: orange;
 }
