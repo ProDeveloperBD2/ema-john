@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+.form-container1{
+    margin: 20px auto;
+    width: 360px;
+    height: 580px;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    padding-left: 18px;
+    padding-right: 30px;
+    box-shadow: -10px 10px rgb(255, 194, 82);
+    margin-bottom: 50px;
+}
+.form-title1{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 42px;
+    letter-spacing: 0.0025em;
+    color: #2A414F;
+    text-align: center;
+}
+.form-control1 label{
+    display: block;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.0015em;
+    color: #2A414F;
+    margin-bottom: 8px;
+    margin-left: 3px;
+}
+.form-control1 input {
+    width: 360px;
+    height: 44px;
+    border: 1px solid #95A0A7;
+    border-radius: 5px;
+    font-size: 1.5em;
+    background-color: white;
+    color: black;
+    padding-left:10px ;
+}
+.form-control1{
+    margin-bottom: 22px;
+}
+.btn-submit1{
+    width: 375px;
+    height: 50px;
+    background-color: orange;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    color: #0E161A;
+    cursor: pointer;
+    margin-top: 30px;
+}
+.btn-submit1:hover{
+    background-color: rgb(255, 189, 67);
+}
+.register-to-login-btn{
+    text-decoration: underline;
+    color: orange;
+}
+.register-to-login-text-and-btn{
+   text-align: center;
+}
+.error{
+    color: red;
+}
+.success{
+    color: green;
+}

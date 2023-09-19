@@ -20,3 +20,6 @@ padding-right: 50px;
 .header img{
     cursor: pointer;
 }
+.welcome{
+    color: orange;
+}
