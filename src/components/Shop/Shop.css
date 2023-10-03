@@ -23,3 +23,17 @@
     border-radius: 4px;
     text-decoration: none;
 }
+
+.pagination{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+.pagination button{
+    background-color: aliceblue;
+    color: black;
+    margin-right: 4px;
+}
+.pagination .selected{
+    background-color: #FF9900;
+}
